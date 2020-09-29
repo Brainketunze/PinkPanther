@@ -3,6 +3,7 @@
 ## Step 1 : Plan of the day
  * Add names of the team members to the README
  * Add the purpose of the project to the README
+ * describe the propose of the project.
  
  ## Step 2 : Introduce member 1
 
